@@ -1,4 +1,4 @@
-# Chat Application using React, Redux, Redux-Saga and Web Sockets
+# Chat Application using React, vite, chatengine and Web Sockets
 
 ![](./result.gif)
 
